@@ -1,0 +1,41 @@
+#main-header img {
+  height: 100%;
+  width: 100%;
+}
+
+#main-header .port-item {
+  width: 30%;
+}
+
+*/ #main-header .port-item:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.marginRow {
+  margin-bottom: 0px !important;
+}
+.para {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+
+.skills {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 14;
+}
+
+.image {
+  height: 70%;
+  width: 70%;
+}
+
+.gif {
+  height: 255px;
+  width: 250px;
+}
+
+/* @media (min-width: 1199px) {
+  .port-item {
+    padding: 2 em !important;
+  }
+} */
